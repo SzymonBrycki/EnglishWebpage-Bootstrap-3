@@ -1,0 +1,14 @@
+.my-padding
+{
+	padding: 5px;
+}
+
+.my-link-color-white a 
+{
+	color:  white;
+}
+
+.my-link-color-white a:visited
+{
+	color:  white;
+}
